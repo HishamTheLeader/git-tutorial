@@ -1,4 +1,6 @@
 # Adding a small comment for the feature branch
+
+
 def compute_area_of_circle(radius):
 	pi = 3.14
 	area = pi * radius * radius
@@ -12,5 +14,5 @@ radius2 = 40
 area2 = compute_area_of_circle(radius2)
 print(f"The area of circle with radius {radius2} is: {area2}")
 
-print("This is from main branch")
+print("This is from both branches - merged successfully!")
 
