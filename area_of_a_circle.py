@@ -1,3 +1,4 @@
+# Adding a small comment for the feature branch
 def compute_area_of_circle(radius):
 	pi = 3.14
 	area = pi * radius * radius
